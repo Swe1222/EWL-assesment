@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="EWL-wepage.css">
+        <script src="./EWL-webpage.js"></script>
+        <title>home</title>
+    </head>
+    <body><div>
+        <fieldset class="b"><h2 class="b1">Tracker</h2></fieldset><br>
+        <center>
+        <input class="c" type="text" placeholder="Search by name"></input></center><br><br><br>
+        <fieldset class="c1">
+            <img src="https://randomuser.me/api/portraits/women/64.jpg" id="pic">
+            <span id="name"></span>
+
+        </fieldset><br>
+        <fieldset class="c1"> <span id="n1"></span></fieldset><br>
+        <fieldset class="c1"><span id="n2"></span></fieldset><br>
+        <fieldset class="c1"><span id="n3"></span></fieldset>
+    </div>
+    </body>
+</html>
