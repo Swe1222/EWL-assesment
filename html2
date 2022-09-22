@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Log In</title>
+        <link rel="stylesheet" href="EWL-wepage.css">
+        <link rel="stylesheet" href="EWL-webpage.java">
+    </head>
+    <body background="C:\Users\HP\Documents\b5.jpeg">
+        <h2>Tracker</h2>
+        <fieldset class="a" background-image="C:\Users\HP\Documents\bg1.jpg">
+        <center>
+        <fieldset><h1><center>Log In</center></h1><center><br>
+            <form>
+                <input type="text"id="un" placeholder="Your email"></input><br><br>
+                <input type="password" id="pw" placeholder="Your password"></input><br><br><br>
+                <button style="color:white ;font-size:20px;" onclick="valid()" type="submit">Log In</button>
+            </form></center>
+        </fieldset></center></fieldset>
+        <h2 class="a1">Tracker</h2><br>
+        <hr><br>
+        <div class="navigation" id="nav">
+        <a href="#home">Home</a>
+        <a href="#aboutus">AboutUs</a>
+        <a href="#contact">ContactUs</a>
+    </div>    
+    </body>
+</html>
+
