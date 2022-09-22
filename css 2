@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top:40;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 100px;
+}
+.a1{
+    padding-left: 100;
+}
+fieldset{
+    background-color: white;
+    border-radius:10px;
+    padding-top:30;
+    width:300px;
+    height:300px;
+}
+fieldset.a{
+    box-shadow: 5px 6px 5px grey;
+    padding-top: 50px;
+    height:400px;
+    background-color:lightcyan;
+width:1350;
+border-radius: 0%;}
+input{
+    padding-left:20px;
+    width:250;
+    height:35;
+    border-radius: 30px;
+    border-color: aliceblue;
+    
+}
+button{
+    background-color:cornflowerblue;
+    border-radius:30px;
+    width:250;
+    height:35;
+    border:none;
+}
+hr{
+    width: 1300px;
+}
+#nav a{
+    font-style: :none;
+    padding:30px;
+}
+#nav a:hover{color:white;}
