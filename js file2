@@ -1,0 +1,31 @@
+fetch("https://randomuser.me/api/?results=10")
+// .then((response)=>{
+//     if(response.ok){
+//         return response.json();
+//     }
+//     else{
+//         throw new Error("Website go boom");
+//     }
+// })
+.then((response) => response.json())
+.then(data=>{
+    console.log(data.results);
+    // display(data.results);
+    const name=data.results[3].name.title;
+     const namediv=document.getElementById("name");
+     namediv.innerHTML = name;
+     const n=data.results[0].name.first;
+     const ndiv=document.getElementById("name");
+     ndiv.innerHTML = name;
+})
+// .catch((error)=> console.error("FETCH ERROR",error));
+function display(data){
+     const name=data[0].name.first;
+     const namediv=document.getElementById("name");
+     namediv.innerHTML = name;
+     const n=data[0].name.last;
+     const ndiv=document.getElementById("name");
+     ndiv.innerHTML=name;
+     // document.getElementById('un').innerHTML=data.results[0];
+     
+     }
