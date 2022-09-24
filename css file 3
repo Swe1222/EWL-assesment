@@ -1,0 +1,148 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top:40;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 100px;
+}
+.a1{
+    padding-left: 100;
+}
+fieldset{
+    background-color: white;
+    border-radius:10px;
+    padding-top:30;
+    width:300px;
+    height:300px;
+}
+fieldset.a{
+    box-shadow: 5px 6px 5px grey;
+    padding-top: 50px;
+    height:400px;
+    background-color:lightcyan;
+width:1350;
+border-radius: 0%;}
+input{
+    padding-left:20px;
+    width:250;
+    height:35;
+    border-radius: 30px;
+    border-color: aliceblue;
+    
+}
+button{
+    background-color:cornflowerblue;
+    border-radius:30px;
+    width:250;
+    height:35;
+    border:none;
+}
+hr{
+    width: 1300px;
+}
+#nav a{
+    color:black
+    font-style: :none;
+    padding:10px;
+}
+#nav a:hover{color:white;}
+fieldset.b
+{
+    border-radius:0px;
+    box-shadow: 5px 5px 5px grey;
+    width:1350px;
+    height:5px;
+}
+.c{
+    width:700px;
+    border-radius: 5px;
+}
+.b2
+{
+    padding-top: 10px;
+}
+fieldset.b{
+    
+}
+img{ 
+    height:110px;
+    border-radius: 5px;
+    width: 100px;
+}
+.c1
+{
+    
+padding-top:1px;
+padding-left: 1px;
+border-radius: 5px;
+    height:101px;
+}
+.c2
+{
+    float: right;
+    position: absolute;
+    top: 310px;
+    left: 800px;
+    bottom: 300px;
+padding-top:1px;
+padding-left: 1px;
+border-radius: 5px;
+    height:101px;
+}
+.c3
+{
+    float:right;
+    position: absolute;
+    top: 440px;
+    left: 800px;
+    bottom: 200px;
+padding-top:1px;
+padding-left: 1px;
+border-radius: 5px;
+    height:101px;
+}
+.c4
+{
+    float: right;
+    position: absolute;
+    top: 570px;
+    left: 800px;
+    bottom: 150px;
+padding-top:1px;
+padding-left: 1px;
+border-radius: 5px;
+    height:101px;
+}
+.c5
+{
+    float: right;
+    position: absolute;
+    top: 700px;
+    left: 800px;
+    bottom: 100px;
+padding-top:1px;
+padding-left: 1px;
+border-radius: 5px;
+    height:101px;
+}
+.c6
+{
+    float: right;
+    position: absolute;
+    top: 833px;
+    left: 800px;
+    bottom: 300px;
+padding-top:1px;
+padding-left: 1px;
+border-radius: 5px;
+    height:101px;
+}
+div.cc{
+    padding-top:100px;
+    
+}
+span{
+    padding-bottom: 100;
+}
