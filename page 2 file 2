@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="EWL-wepage.css">
+        <script src="./EWL-webpage.js"></script>
+        <title>home</title>
+    </head>
+    <body><div class="cc">
+        <fieldset class="b"><h2 class="b1"></h2></fieldset><br>
+        <center>
+        <input class="c" type="text" placeholder="Search by name"></input></center><br><br><br>
+        <fieldset class="c1">
+            <img src="https://randomuser.me/api/portraits/women/64.jpg" >
+            <span id="name"></span>
+            
+        </fieldset><br>
+        <fieldset class="c1"> <span id="picture">
+            <img src=" https://randomuser.me/api/portraits/women/9.jpg "> 
+        </span></fieldset><br>
+        <fieldset class="c1"><span id="name">
+            <img src=" https://randomuser.me/api/portraits/men/98.jpg">
+        </span></fieldset><br>
+        <fieldset class="c1"><span id="name">
+            <img src=" https://randomuser.me/api/portraits/men/48.jpg">
+        </span></fieldset><br>
+        <fieldset class="c1"><span id="name">
+            <img src="https://randomuser.me/api/portraits/women/12.jpg">
+        </span></fieldset><br>
+        <fieldset class="c2"><span id="name">
+            <img src=" https://randomuser.me/api/portraits/men/42.jpg">
+        </span></fieldset><br>
+        <fieldset class="c3"><span id="name">
+            <img src=" https://randomuser.me/api/portraits/men/62.jpg">
+        </span></fieldset><br>
+        <fieldset class="c4"><span id="name">
+            <img src=" https://randomuser.me/api/portraits/men/4.jpg">
+        </span></fieldset><br>
+        <fieldset class="c5"><span id="name">
+            <img src="https://randomuser.me/api/portraits/women/50.jpg">
+        </span></fieldset><br>
+        <fieldset class="c6"><span id="name">
+            <img src=" https://randomuser.me/api/portraits/women/69.jpg">
+        </span></fieldset><br>
+    </div>
+    </body>
+</html>
